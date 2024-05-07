@@ -104,3 +104,4 @@ E:\REPOS\C#\EPAM\GooglePricingCalculator\obj\Debug\net8.0\refint\GooglePricingCa
 E:\REPOS\C#\EPAM\GooglePricingCalculator\obj\Debug\net8.0\GooglePricingCalculator.pdb
 E:\REPOS\C#\EPAM\GooglePricingCalculator\obj\Debug\net8.0\GooglePricingCalculator.genruntimeconfig.cache
 E:\REPOS\C#\EPAM\GooglePricingCalculator\obj\Debug\net8.0\ref\GooglePricingCalculator.dll
+E:\REPOS\C#\EPAM\GooglePricingCalculator\obj\Debug\net8.0\GooglePricingCalculator.sourcelink.json
