@@ -17,12 +17,16 @@ namespace GooglePricingCalculator.Pages
 
         public void Navigate()
         {
-            driver.Navigate().GoToUrl(url);
+            driver.Navigate().GoToUrl(this.url);
         }
         public void Search(string text)
         {
             this.Map.SearchInput.SendKeys(text);
             this.Map.SearchInput.SendKeys(Keys.Enter);
+        }
+        public void HandleCookies()
+        {
+            this.Map.Cookies.Click();
         }
     }
 }

@@ -12,8 +12,8 @@ namespace GooglePricingCalculator
         public PricingCalculatorTest()
         {
             Driver = new ChromeDriver();
-            Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(60));
-            Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
+            Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(5));
+            Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
             Driver.Manage().Window.Maximize();
         }
         [Fact]
@@ -21,12 +21,21 @@ namespace GooglePricingCalculator
         {
             BasePage basePage = new BasePage(Driver, Wait);
             basePage.Navigate();
+            basePage.HandleCookies();
             basePage.Search("Google Cloud Pricing Calculator");
             SearchingPage searchingPage = new SearchingPage(Driver, Wait);
             searchingPage.ClickSearch("Google Cloud Pricing Calculator");
             CalculationPage calculationPage = new CalculationPage(Driver, Wait);
             calculationPage.AddToEstimate("Compute Engine");
             calculationPage.AddNumberOfInstances("4");
+            calculationPage.PickOS("Debian");
+            calculationPage.PickMachineFamily("General Purpose");
+            calculationPage.PickSeries("N1");
+            calculationPage.PickMachineType("n1-standard-8");
+            calculationPage.PickGPUModel("NVIDIA Tesla V100");
+            calculationPage.PickNumberOfGPU("1");
+            calculationPage.PickSsdSize("2x375 Gb");
+            calculationPage.PickRegion("europe-west4");
         }
 
         public void Dispose()

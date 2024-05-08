@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GooglePricingCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed85f8fda651afa1ff562362bfd954afe0465780")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b75b762ccd553726d1ed608d86f25d92558537")]
 [assembly: System.Reflection.AssemblyProductAttribute("GooglePricingCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GooglePricingCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
