@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 
 namespace GooglePricingCalculator
 {
@@ -16,15 +17,15 @@ namespace GooglePricingCalculator
                 throw new ArgumentException($"There is no element named {text}", nameof(text));
             }
         }
-        public static void EnterNumber(this By by, IWebDriver driver, string number)
+        public static void EnterNumber(this IWebElement locator, string number)
         {
             if (!int.TryParse(number, out int result))
             {
                 throw new ArgumentException($"{number} is not a number", nameof(number));
             }
-            IWebElement element = driver.FindElement(by);
-            element.SendKeys(Keys.Clear);
+            IWebElement element = locator;
+            element.Clear();
             element.SendKeys(number);
         }
-    }
+    } 
 }

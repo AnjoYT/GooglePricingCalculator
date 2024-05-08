@@ -12,7 +12,7 @@ namespace GooglePricingCalculator.Pages
 
         public IWebElement EstimateButton => this.driver.FindElement(By.XPath("//button[contains(@class, 'UywwFc')]"));
         public By ProductCard => By.XPath("//div[@class = 'aHij0b-aGsRMb']//ancestor::h2");
-        public By NumberOfInstances => By.ClassName("qdOxv-fmcmS-wGMbrd");
+        public IWebElement NumberOfInstances => this.driver.FindElement(By.ClassName("qdOxv-fmcmS-wGMbrd"));
 
 
     }

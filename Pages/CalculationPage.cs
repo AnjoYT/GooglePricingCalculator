@@ -8,6 +8,7 @@ namespace GooglePricingCalculator.Pages
     {
         private readonly IWebDriver driver;
         private readonly WebDriverWait wait;
+        private readonly string url = "https://cloud.google.com/products/calculator?hl=en";
         public CalculationPage(IWebDriver driver, WebDriverWait wait)
         {
             this.driver = driver;
@@ -22,12 +23,8 @@ namespace GooglePricingCalculator.Pages
         }
         public void AddNumberOfInstances(string number)
         {
-            wait.Until(ExpectedConditions.ElementToBeClickable(this.Map.NumberOfInstances));
-            Thread.Sleep(300);
-            //this.Map.NumberOfInstances.EnterNumber(driver, number);
-            IWebElement element = this.driver.FindElement(this.Map.NumberOfInstances);
-            element.Clear();
-            element.SendKeys(number);
+            wait.Until(driver => !driver.Url.Equals(url));
+            this.Map.NumberOfInstances.EnterNumber(number);
         }
     }
 }
