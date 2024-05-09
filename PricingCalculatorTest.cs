@@ -1,31 +1,20 @@
 using GooglePricingCalculator.Pages;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support.UI;
+using GooglePricingCalculator.Test;
 
 namespace GooglePricingCalculator
 {
-    public class PricingCalculatorTest : IDisposable
+    public class PricingCalculatorTest : CommonCondition
     {
-        public IWebDriver Driver { get; set; }
-        public WebDriverWait Wait { get; set; }
-        public PricingCalculatorTest()
-        {
-            Driver = new ChromeDriver();
-            Wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(5));
-            Driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
-            Driver.Manage().Window.Maximize();
-        }
         [Fact]
         public void CreatingComputingMachine()
         {
-            BasePage basePage = new BasePage(Driver, Wait);
+            BasePage basePage = new BasePage(this.driver, this.wait);
             basePage.Navigate();
             basePage.HandleCookies();
             basePage.Search("Google Cloud Pricing Calculator");
-            SearchingPage searchingPage = new SearchingPage(Driver, Wait);
+            SearchingPage searchingPage = new SearchingPage(this.driver, this.wait);
             searchingPage.ClickSearch("Google Cloud Pricing Calculator");
-            CalculationPage calculationPage = new CalculationPage(Driver, Wait);
+            CalculationPage calculationPage = new CalculationPage(this.driver, this.wait);
             calculationPage.AddToEstimate("Compute Engine");
             calculationPage.AddNumberOfInstances("4");
             calculationPage.PickOS("Debian");
@@ -40,7 +29,7 @@ namespace GooglePricingCalculator
             calculationPage.PickDiscountOption("1 Year");
             calculationPage.Validate().ValidateCost();
             calculationPage.Share();
-            EstimateSummaryPage estimateSummaryPage = new EstimateSummaryPage(Driver, Wait);
+            EstimateSummaryPage estimateSummaryPage = new EstimateSummaryPage(this.driver, this.wait);
             estimateSummaryPage.TabLoading();
             estimateSummaryPage.Validate().ValidateNumberOfInstances("4");
             estimateSummaryPage.Validate().ValidateOperatingSystem("Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)");
@@ -51,26 +40,24 @@ namespace GooglePricingCalculator
             estimateSummaryPage.Validate().ValidateSsdSize("2x375 GB");
             estimateSummaryPage.Validate().ValidateDatacenter("Netherlands (europe-west4)");
             estimateSummaryPage.Validate().ValidateCommittedUsage("1 year");
+            StopBrowser();
         }
 
         [Fact]
         public void ButtonTesting()
         {
-            BasePage basePage = new BasePage(Driver, Wait);
+            BasePage basePage = new BasePage(this.driver, this.wait);
             basePage.Navigate();
             basePage.HandleCookies();
             basePage.Search("Google Cloud Pricing Calculator");
-            SearchingPage searchingPage = new SearchingPage(Driver, Wait);
+            SearchingPage searchingPage = new SearchingPage(this.driver, this.wait);
             searchingPage.ClickSearch("Google Cloud Pricing Calculator");
-            CalculationPage calculationPage = new CalculationPage(Driver, Wait);
+            CalculationPage calculationPage = new CalculationPage(this.driver, this.wait);
+            calculationPage.AddToEstimate("Compute Engine");
             calculationPage.Share();
-            EstimateSummaryPage estimateSummaryPage = new EstimateSummaryPage(Driver, Wait);
+            EstimateSummaryPage estimateSummaryPage = new EstimateSummaryPage(this.driver, this.wait);
             estimateSummaryPage.TabLoading();
-        }
-
-        public void Dispose()
-        {
-            Driver.Dispose();
+            StopBrowser();
         }
     }
 }

@@ -64,7 +64,7 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.8.0, )"
+              "version": "[17.9.0, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -74,9 +74,17 @@
               "target": "Package",
               "version": "[4.20.0, )"
             },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.2, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.17, )"
             },
             "xunit": {
               "target": "Package",
