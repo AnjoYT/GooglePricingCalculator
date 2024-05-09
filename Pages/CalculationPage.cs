@@ -68,7 +68,7 @@ namespace GooglePricingCalculator.Pages
         public void PickNumberOfGPU(string number)
         {
             url = this.url.WaitForUrlToChange(driver, wait);
-            driver.ScrollIntoView(this.Map.GPUModel);
+            driver.ScrollIntoView(this.Map.NumberOfGPU);
             this.Map.NumberOfGPU.Click();
             this.Map.NumberOfGPUOptions.SelectElement(number);
 
@@ -87,8 +87,18 @@ namespace GooglePricingCalculator.Pages
             driver.ScrollIntoView(this.Map.Region);
             this.Map.Region.Click();
             this.Map.RegionOptions.SelectElement(this.Map.RegionOptionLi, text);
-
         }
 
+        public void PickDiscountOption(string text)
+        {
+            url = this.url.WaitForUrlToChange(driver, wait);
+            driver.ScrollIntoView(this.Map.DiscountElement);
+            this.Map.DiscountOptionsLabel.SelectElement(this.Map.DiscountOptions, text);
+            //IWebElement noneRadioButton = driver.FindElement(By.XPath("//input[@id='1-year']//ancestor::div[@class=' e2WL2b MYT3K pV2hx oLWDHd']"));
+
+            //wait.Until(ExpectedConditions.ElementToBeClickable(noneRadioButton));
+            //// Kliknij element input
+            //noneRadioButton.Click();
+        }
     }
 }

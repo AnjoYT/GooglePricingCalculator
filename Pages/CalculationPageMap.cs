@@ -42,5 +42,10 @@ namespace GooglePricingCalculator.Pages
         public IWebElement Region => this.driver.FindElement(By.XPath("//*[text()='Region']//ancestor::div[contains(@class, 'VfPpkd-TkwUic')]"));
         public IReadOnlyCollection<IWebElement> RegionOptions => this.driver.FindElements(By.XPath("//ul[@aria-label='Region']//span[@jsname ='K4r5Ff']"));
         public By RegionOptionLi => By.XPath("./ancestor::li");
+
+
+        public IWebElement DiscountElement => this.driver.FindElement(By.XPath("//*[text()='Committed use discount options']//ancestor::div[@class='kqQzpb YgByBe']//div[@class='c0GfYc']"));
+        public IReadOnlyCollection<IWebElement> DiscountOptionsLabel => this.driver.FindElements(By.XPath("//*[text()='Committed use discount options']//ancestor::div[@class='kqQzpb YgByBe']//label"));
+        public By DiscountOptions => By.XPath("//ancestor::div[@class=' e2WL2b MYT3K pV2hx oLWDHd']");
     }
 }
