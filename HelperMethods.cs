@@ -30,6 +30,15 @@ namespace GooglePricingCalculator
                 throw new ArgumentException($"There is no element named {text}", nameof(text));
             }
         }
+        public static void SelectElementByInputId(this IWebDriver driver, string ancestor, string text)
+        {
+            text = text.Replace(" ", "-");
+            text = text.ToLower();
+
+            By locator = By.XPath($"//input[@id='{text}']{ancestor}");
+            IWebElement RadioButton = driver.FindElement(locator);
+            RadioButton.Click();
+        }
         public static void EnterNumber(this IWebElement locator, string number)
         {
             if (!int.TryParse(number, out int result))

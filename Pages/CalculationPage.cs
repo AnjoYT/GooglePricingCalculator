@@ -15,7 +15,9 @@ namespace GooglePricingCalculator.Pages
             this.wait = wait;
             this.url = this.driver.Url;
         }
-        public CalculationPageMap Map => new CalculationPageMap(driver);
+        protected CalculationPageMap Map => new CalculationPageMap(this.driver);
+        public ValidateCalculation Validate() => new ValidateCalculation(this.driver);
+
         public void AddToEstimate(string text)
         {
             this.Map.EstimateButton.Click();
@@ -93,12 +95,20 @@ namespace GooglePricingCalculator.Pages
         {
             url = this.url.WaitForUrlToChange(driver, wait);
             driver.ScrollIntoView(this.Map.DiscountElement);
-            this.Map.DiscountOptionsLabel.SelectElement(this.Map.DiscountOptions, text);
-            //IWebElement noneRadioButton = driver.FindElement(By.XPath("//input[@id='1-year']//ancestor::div[@class=' e2WL2b MYT3K pV2hx oLWDHd']"));
+            driver.SelectElementByInputId(this.Map.DiscountAncestor, text);
+        }
+        public void PickProvisioningModel(string text)
+        {
+            url = this.url.WaitForUrlToChange(driver, wait);
+            driver.ScrollIntoView(this.Map.ProvisioningElement);
+            driver.SelectElementByInputId(this.Map.ProvisioningAncestor, text);
+        }
 
-            //wait.Until(ExpectedConditions.ElementToBeClickable(noneRadioButton));
-            //// Kliknij element input
-            //noneRadioButton.Click();
+        public void Share()
+        {
+            url = this.url.WaitForUrlToChange(driver, wait);
+            this.Map.ShareButton.Click();
+            this.Map.EstimateLink.Click();
         }
     }
 }

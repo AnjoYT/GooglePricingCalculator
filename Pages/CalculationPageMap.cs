@@ -43,9 +43,16 @@ namespace GooglePricingCalculator.Pages
         public IReadOnlyCollection<IWebElement> RegionOptions => this.driver.FindElements(By.XPath("//ul[@aria-label='Region']//span[@jsname ='K4r5Ff']"));
         public By RegionOptionLi => By.XPath("./ancestor::li");
 
-
         public IWebElement DiscountElement => this.driver.FindElement(By.XPath("//*[text()='Committed use discount options']//ancestor::div[@class='kqQzpb YgByBe']//div[@class='c0GfYc']"));
-        public IReadOnlyCollection<IWebElement> DiscountOptionsLabel => this.driver.FindElements(By.XPath("//*[text()='Committed use discount options']//ancestor::div[@class='kqQzpb YgByBe']//label"));
-        public By DiscountOptions => By.XPath("//ancestor::div[@class=' e2WL2b MYT3K pV2hx oLWDHd']");
+        public string DiscountAncestor => "//ancestor::div[@class=' e2WL2b MYT3K pV2hx oLWDHd']";
+
+        public IWebElement ProvisioningElement => this.driver.FindElement(By.XPath("//*[text()='Provisioning Model']//ancestor::div[@class='kqQzpb YgByBe']//div[@class='c0GfYc']"));
+        public string ProvisioningAncestor => "//ancestor::div[@class=' e2WL2b MYT3K pV2hx oLWDHd']";
+
+        public IWebElement Cost => this.driver.FindElement(By.XPath("//div[@class='xJ0wqe']//span[@class='MyvX5d D0aEmf']"));
+
+        public IWebElement ShareButton => this.driver.FindElement(By.XPath("//*[text()='Share']//ancestor::button"));
+
+        public IWebElement EstimateLink => this.driver.FindElement(By.XPath("//a[text()='Open estimate summary']"));
     }
 }
