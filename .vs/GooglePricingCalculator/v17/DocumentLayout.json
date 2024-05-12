@@ -1,106 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\",
+  "WorkspaceRootPath": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\tests\\pricingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:tests\\pricingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\calculationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\calculationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\googlecloud.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\googlecloud.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:googlecloud.runsettings||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\waiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\waiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\basepagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\basepagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\idriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\idriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\estimatesummaryvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\estimatesummaryvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\validatecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\validatecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\searchingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\searchingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\enumutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\enumutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\screenshot\\screenshottaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\screenshot\\screenshottaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:screenshot\\screenshottaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\browserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\estimatesummaryvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\estimatesummaryvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\tests\\pricingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:tests\\pricingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\calculationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\calculationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\searchingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\searchingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\browserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\browserfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\estimatesummarypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\enums\\browsertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:enums\\browsertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\waiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\waiters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\utils\\enumutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:utils\\enumutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\basepagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\basepagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\idriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\idriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\validatecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\validatecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\estimatesummarypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\estimatesummarypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\searchingpagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\searchingpagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\searchingpagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\estimatesummarymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\estimatesummarymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\estimatesummarymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\calculationpagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\pages\\calculationpagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:pages\\calculationpagemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\driversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\driversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\driversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\chromebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\chromebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\chromebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\firefoxbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|e:\\repos\\c#\\epam\\googlepricingcalculator\\browser\\firefoxbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:browser\\firefoxbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|d:\\repos\\c#\\epam\\googlepricingcalculator\\enums\\browsertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5291C7D3-CF26-4B59-BFFA-651A592C03E9}|GooglePricingCalculator.csproj|solutionrelative:enums\\browsertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -109,16 +109,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 103,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 123,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "BasePage.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePage.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePage.cs",
               "RelativeDocumentMoniker": "Pages\\BasePage.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePage.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePage.cs",
               "RelativeToolTip": "Pages\\BasePage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +136,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "EstimateSummaryValidate.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryValidate.cs",
+              "RelativeDocumentMoniker": "Pages\\EstimateSummaryValidate.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryValidate.cs",
+              "RelativeToolTip": "Pages\\EstimateSummaryValidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:17:42.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestSettings.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\TestSettings.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\TestSettings.cs",
               "RelativeDocumentMoniker": "Utils\\TestSettings.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\TestSettings.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\TestSettings.cs",
               "RelativeToolTip": "Utils\\TestSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,128 +162,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GoogleCloud.RunSettings",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GoogleCloud.RunSettings",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GoogleCloud.RunSettings",
               "RelativeDocumentMoniker": "GoogleCloud.RunSettings",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GoogleCloud.RunSettings",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GoogleCloud.RunSettings",
               "RelativeToolTip": "GoogleCloud.RunSettings",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-12T10:15:34.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScreenshotTaker.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Screenshot\\ScreenshotTaker.cs",
+              "RelativeDocumentMoniker": "Screenshot\\ScreenshotTaker.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Screenshot\\ScreenshotTaker.cs",
+              "RelativeToolTip": "Screenshot\\ScreenshotTaker.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:44:09.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Browser.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\Browser.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\Browser.cs",
               "RelativeDocumentMoniker": "Browser\\Browser.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\Browser.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\Browser.cs",
               "RelativeToolTip": "Browser\\Browser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAnAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAhwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T17:37:30.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "CalculationPage.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPage.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPage.cs",
               "RelativeDocumentMoniker": "Pages\\CalculationPage.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPage.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPage.cs",
               "RelativeToolTip": "Pages\\CalculationPage.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAnwGYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T08:58:31.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BasePageMap.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePageMap.cs",
-              "RelativeDocumentMoniker": "Pages\\BasePageMap.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePageMap.cs",
-              "RelativeToolTip": "Pages\\BasePageMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T08:56:55.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IDriverFactory.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\IDriverFactory.cs",
-              "RelativeDocumentMoniker": "Browser\\IDriverFactory.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\IDriverFactory.cs",
-              "RelativeToolTip": "Browser\\IDriverFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:21:24.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HelperMethods.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\HelperMethods.cs",
-              "RelativeDocumentMoniker": "Utils\\HelperMethods.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\HelperMethods.cs",
-              "RelativeToolTip": "Utils\\HelperMethods.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:03:16.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EstimateSummaryValidate.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryValidate.cs",
-              "RelativeDocumentMoniker": "Pages\\EstimateSummaryValidate.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryValidate.cs",
-              "RelativeToolTip": "Pages\\EstimateSummaryValidate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:17:42.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ValidateCalculation.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\ValidateCalculation.cs",
-              "RelativeDocumentMoniker": "Pages\\ValidateCalculation.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\ValidateCalculation.cs",
-              "RelativeToolTip": "Pages\\ValidateCalculation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:21:02.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "SearchingPage.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPage.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPage.cs",
               "RelativeDocumentMoniker": "Pages\\SearchingPage.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPage.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPage.cs",
               "RelativeToolTip": "Pages\\SearchingPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T09:43:03.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrowserFactory.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\BrowserFactory.cs",
+              "RelativeDocumentMoniker": "Browser\\BrowserFactory.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\BrowserFactory.cs",
+              "RelativeToolTip": "Browser\\BrowserFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:21:41.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HelperMethods.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\HelperMethods.cs",
+              "RelativeDocumentMoniker": "Utils\\HelperMethods.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\HelperMethods.cs",
+              "RelativeToolTip": "Utils\\HelperMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:03:16.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrowserType.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Enums\\BrowserType.cs",
+              "RelativeDocumentMoniker": "Enums\\BrowserType.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Enums\\BrowserType.cs",
+              "RelativeToolTip": "Enums\\BrowserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:23:26.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "EnumUtil.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\EnumUtil.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\EnumUtil.cs",
               "RelativeDocumentMoniker": "Utils\\EnumUtil.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\EnumUtil.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\EnumUtil.cs",
               "RelativeToolTip": "Utils\\EnumUtil.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,138 +280,128 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ScreenshotTaker.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Screenshot\\ScreenshotTaker.cs",
-              "RelativeDocumentMoniker": "Screenshot\\ScreenshotTaker.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Screenshot\\ScreenshotTaker.cs",
-              "RelativeToolTip": "Screenshot\\ScreenshotTaker.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Title": "BasePageMap.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePageMap.cs",
+              "RelativeDocumentMoniker": "Pages\\BasePageMap.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\BasePageMap.cs",
+              "RelativeToolTip": "Pages\\BasePageMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T13:44:09.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T08:56:55.153Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "BrowserFactory.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\BrowserFactory.cs",
-              "RelativeDocumentMoniker": "Browser\\BrowserFactory.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\BrowserFactory.cs",
-              "RelativeToolTip": "Browser\\BrowserFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Title": "IDriverFactory.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\IDriverFactory.cs",
+              "RelativeDocumentMoniker": "Browser\\IDriverFactory.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\IDriverFactory.cs",
+              "RelativeToolTip": "Browser\\IDriverFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:21:41.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:21:24.682Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "EstimateSummaryPage.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryPage.cs",
-              "RelativeDocumentMoniker": "Pages\\EstimateSummaryPage.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryPage.cs",
-              "RelativeToolTip": "Pages\\EstimateSummaryPage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
+              "Title": "ValidateCalculation.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\ValidateCalculation.cs",
+              "RelativeDocumentMoniker": "Pages\\ValidateCalculation.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\ValidateCalculation.cs",
+              "RelativeToolTip": "Pages\\ValidateCalculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:14:17.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T15:21:02.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "SearchingPageMap.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPageMap.cs",
-              "RelativeDocumentMoniker": "Pages\\SearchingPageMap.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPageMap.cs",
-              "RelativeToolTip": "Pages\\SearchingPageMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Title": "EstimateSummaryPage.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryPage.cs",
+              "RelativeDocumentMoniker": "Pages\\EstimateSummaryPage.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryPage.cs",
+              "RelativeToolTip": "Pages\\EstimateSummaryPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:43:30.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CalculationPageMap.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPageMap.cs",
-              "RelativeDocumentMoniker": "Pages\\CalculationPageMap.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPageMap.cs",
-              "RelativeToolTip": "Pages\\CalculationPageMap.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAUwAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T14:30:37.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:14:17.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "EstimateSummaryMap.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryMap.cs",
-              "RelativeDocumentMoniker": "Pages\\EstimateSummaryMap.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryMap.cs",
-              "RelativeToolTip": "Pages\\EstimateSummaryMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Title": "SearchingPageMap.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPageMap.cs",
+              "RelativeDocumentMoniker": "Pages\\SearchingPageMap.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\SearchingPageMap.cs",
+              "RelativeToolTip": "Pages\\SearchingPageMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T16:15:59.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:43:30.445Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "DriverSingleton.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\DriverSingleton.cs",
-              "RelativeDocumentMoniker": "Browser\\DriverSingleton.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\DriverSingleton.cs",
-              "RelativeToolTip": "Browser\\DriverSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
+              "Title": "CalculationPageMap.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPageMap.cs",
+              "RelativeDocumentMoniker": "Pages\\CalculationPageMap.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\CalculationPageMap.cs",
+              "RelativeToolTip": "Pages\\CalculationPageMap.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T13:22:19.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T14:30:37.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EstimateSummaryMap.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryMap.cs",
+              "RelativeDocumentMoniker": "Pages\\EstimateSummaryMap.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Pages\\EstimateSummaryMap.cs",
+              "RelativeToolTip": "Pages\\EstimateSummaryMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:15:59.732Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "ChromeBrowser.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\ChromeBrowser.cs",
-              "RelativeDocumentMoniker": "Browser\\ChromeBrowser.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\ChromeBrowser.cs",
-              "RelativeToolTip": "Browser\\ChromeBrowser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Title": "DriverSingleton.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\DriverSingleton.cs",
+              "RelativeDocumentMoniker": "Browser\\DriverSingleton.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\DriverSingleton.cs",
+              "RelativeToolTip": "Browser\\DriverSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:02:20.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T13:22:19.679Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "FirefoxBrowser.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\FirefoxBrowser.cs",
-              "RelativeDocumentMoniker": "Browser\\FirefoxBrowser.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Browser\\FirefoxBrowser.cs",
-              "RelativeToolTip": "Browser\\FirefoxBrowser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Title": "ChromeBrowser.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\ChromeBrowser.cs",
+              "RelativeDocumentMoniker": "Browser\\ChromeBrowser.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\ChromeBrowser.cs",
+              "RelativeToolTip": "Browser\\ChromeBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T17:23:04.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:02:20.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "BrowserType.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Enums\\BrowserType.cs",
-              "RelativeDocumentMoniker": "Enums\\BrowserType.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Enums\\BrowserType.cs",
-              "RelativeToolTip": "Enums\\BrowserType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Title": "FirefoxBrowser.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\FirefoxBrowser.cs",
+              "RelativeDocumentMoniker": "Browser\\FirefoxBrowser.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Browser\\FirefoxBrowser.cs",
+              "RelativeToolTip": "Browser\\FirefoxBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T13:23:26.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T17:23:04.933Z"
             }
           ]
         },
         {
-          "DockedWidth": 118,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 123,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -423,39 +413,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "PricingCalculatorTest.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Tests\\PricingCalculatorTest.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Tests\\PricingCalculatorTest.cs",
               "RelativeDocumentMoniker": "Tests\\PricingCalculatorTest.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Tests\\PricingCalculatorTest.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Tests\\PricingCalculatorTest.cs",
               "RelativeToolTip": "Tests\\PricingCalculatorTest.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAqAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwBQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T09:42:17.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Waiters.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\Waiters.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\Waiters.cs",
               "RelativeDocumentMoniker": "Utils\\Waiters.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Utils\\Waiters.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Utils\\Waiters.cs",
               "RelativeToolTip": "Utils\\Waiters.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAawCIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T09:52:53.584Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BaseTest.cs",
-              "DocumentMoniker": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Tests\\BaseTest.cs",
+              "DocumentMoniker": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Tests\\BaseTest.cs",
               "RelativeDocumentMoniker": "Tests\\BaseTest.cs",
-              "ToolTip": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\Tests\\BaseTest.cs",
+              "ToolTip": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\Tests\\BaseTest.cs",
               "RelativeToolTip": "Tests\\BaseTest.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAmAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T09:37:13.2Z",
               "EditorCaption": ""

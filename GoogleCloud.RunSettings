@@ -4,7 +4,7 @@
 		<Parameter name ="Browser" value="Chrome" />
 		<Parameter name ="ExplicitTimeOut" value="60" />
 		<Parameter name ="ImplicitTimeOut" value="30" />
-		<Parameter name ="ScreenShotPath" value=".\GooglePricingCalculator\Logs" />
+		<Parameter name ="ScreenShotPath" value="..\Screenshots\" />
 		<Parameter name ="ApplicationUrl" value="https://cloud.google.com/?hl=en"/>
 	</TestRunParameters>
 </RunSettings>

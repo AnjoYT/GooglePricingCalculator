@@ -54,9 +54,11 @@ namespace GooglePricingCalculator.Test
             searchingPage.ClickSearch("Google Cloud Pricing Calculator");
             CalculationPage calculationPage = new CalculationPage();
             calculationPage.AddToEstimate("Compute Engine");
+            calculationPage.AddNumberOfInstances("4");
             calculationPage.Share();
             EstimateSummaryPage estimateSummaryPage = new EstimateSummaryPage();
-            //StopBrowser();
+            BrowserFactory.Browser.TabLoading();
+            estimateSummaryPage.Validate().ValidateNumberOfInstances("1");
         }
     }
 }

@@ -1,11 +1,6 @@
 ﻿using GooglePricingCalculator.Browser;
 using GooglePricingCalculator.Utils;
 using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GooglePricingCalculator.Tests
 {
@@ -19,17 +14,17 @@ namespace GooglePricingCalculator.Tests
             Waiters.WaitForPageLoad();
         }
         [SetUp]
-        public void SetUp() 
+        public void SetUp()
         {
-        
+
         }
 
         [TearDown]
         public void TearDown()
         {
-            if(TestContext.CurrentContext.Result.Outcome.Status == NUnit.Framework.Interfaces.TestStatus.Failed)
+            if (TestContext.CurrentContext.Result.Outcome.Status == NUnit.Framework.Interfaces.TestStatus.Failed)
             {
-                BrowserFactory.Browser.CreateScreeenshot(TestContext.CurrentContext.TestDirectory);
+                BrowserFactory.Browser.CreateScreeenshot(TestContext.CurrentContext.Test.Name);
             }
             BrowserFactory.Browser.Clear();
         }

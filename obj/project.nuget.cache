@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RqpTGt0zCGZAqYS9wd64aVJPumYBV4Hxi9oeALknv3/xng6r3JDmdn3V7SmWiSle40ywJMXRRvhnQ6x23mpIYQ==",
+  "dgSpecHash": "l4qcw3WYqRo2VeWZnfTLbj9BAglRyNhupLW/wmhU1ufrSZiUZ4FjxwuqnkcXZI+XWZsjIate/24qWxZYC4MJLw==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj",
+  "projectFilePath": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bartek\\.nuget\\packages\\anglesharp\\1.1.0\\anglesharp.1.1.0.nupkg.sha512",
     "C:\\Users\\Bartek\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",

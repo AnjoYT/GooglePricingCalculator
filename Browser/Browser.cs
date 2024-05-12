@@ -28,7 +28,7 @@ namespace GooglePricingCalculator.Browser
                 //logger
             }
         }
-        public string GetUrl() 
+        public string GetUrl()
         {
             return this.driver.Url;
         }
@@ -51,20 +51,20 @@ namespace GooglePricingCalculator.Browser
         {
             try
             {
-                ScreenshotTaker.CreateSceenshot(this.driver, testName);
+                ScreenshotTaker.ScreenshotCreator(this.driver, testName);
             }
             catch (Exception ex)
             {
                 //logger
             }
         }
-        public WebDriverWait Wait() => new WebDriverWait(this.driver, TestSettings.WebDriverExplicitTimeOut); 
+        public WebDriverWait Wait() => new WebDriverWait(this.driver, TestSettings.WebDriverExplicitTimeOut);
         public IWebElement FindElement(By locator)
         {
             return this.driver.FindElement(locator);
         }
 
-        public void SelectElementByInputId( string ancestor, string text)
+        public void SelectElementByInputId(string ancestor, string text)
         {
             text = text.Replace(" ", "-");
             text = text.ToLower();
