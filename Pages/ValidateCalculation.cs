@@ -4,12 +4,7 @@ namespace GooglePricingCalculator.Pages
 {
     public class ValidateCalculation
     {
-        private readonly IWebDriver driver;
-        public ValidateCalculation(IWebDriver driver)
-        {
-            this.driver = driver;
-        }
-        protected CalculationPageMap Map => new CalculationPageMap(driver);
+        protected CalculationPageMap Map => new CalculationPageMap();
 
         public void ValidateCost()
         {

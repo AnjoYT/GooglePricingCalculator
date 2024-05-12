@@ -1,28 +1,19 @@
-﻿using OpenQA.Selenium;
+﻿using GooglePricingCalculator.Browser;
+using GooglePricingCalculator.Utils;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
 namespace GooglePricingCalculator.Pages
 {
     public class BasePage
     {
-        private readonly string url = "https://cloud.google.com/?hl=en";
-        private readonly IWebDriver driver;
-        private readonly WebDriverWait wait;
-        public BasePage(IWebDriver driver, WebDriverWait wait)
-        {
-            this.driver = driver;
-            this.wait = wait;
-        }
-        public BasePageMap Map => new BasePageMap(driver);
+        public BasePageMap Map => new BasePageMap();
 
-        public void Navigate()
-        {
-            driver.Navigate().GoToUrl(this.url);
-        }
         public void Search(string text)
-        {
+        { 
             this.Map.SearchInput.SendKeys(text);
             this.Map.SearchInput.SendKeys(Keys.Enter);
+            Waiters.WaitForPageLoad();
         }
         public void HandleCookies()
         {

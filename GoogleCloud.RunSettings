@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name ="Browser" value="Chrome" />
+		<Parameter name ="ExplicitTimeOut" value="60" />
+		<Parameter name ="ImplicitTimeOut" value="30" />
+		<Parameter name ="ScreenShotPath" value=".\GooglePricingCalculator\Logs" />
+		<Parameter name ="ApplicationUrl" value="https://cloud.google.com/?hl=en"/>
+	</TestRunParameters>
+</RunSettings>

@@ -4,12 +4,7 @@ namespace GooglePricingCalculator.Pages
 {
     public class EstimateSummaryValidate
     {
-        private readonly IWebDriver driver;
-        public EstimateSummaryValidate(IWebDriver driver)
-        {
-            this.driver = driver;
-        }
-        protected EstimateSummaryMap Map => new EstimateSummaryMap(driver);
+        protected EstimateSummaryMap Map => new EstimateSummaryMap();
 
         public void ValidateNumberOfInstances(string number)
         {

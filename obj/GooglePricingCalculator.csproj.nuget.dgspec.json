@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj": {}
+    "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj": {}
   },
   "projects": {
-    "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj": {
+    "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj",
+        "projectUniqueName": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj",
         "projectName": "GooglePricingCalculator",
-        "projectPath": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj",
+        "projectPath": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\GooglePricingCalculator.csproj",
         "packagesPath": "C:\\Users\\Bartek\\.nuget\\packages\\",
-        "outputPath": "E:\\REPOS\\C#\\EPAM\\GooglePricingCalculator\\obj\\",
+        "outputPath": "D:\\Repos\\C#\\EPAM\\GooglePricingCalculator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Bartek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,6 +61,14 @@
               "target": "Package",
               "version": "[17.9.0, )"
             },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
             "Selenium.Support": {
               "target": "Package",
               "version": "[4.20.0, )"
@@ -74,17 +77,19 @@
               "target": "Package",
               "version": "[4.20.0, )"
             },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "WebDriverManager": {
               "target": "Package",
               "version": "[2.17.2, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "log4net": {
-              "target": "Package",
-              "version": "[2.0.17, )"
+              "version": "[6.0.2, )"
             },
             "xunit": {
               "target": "Package",
@@ -111,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
